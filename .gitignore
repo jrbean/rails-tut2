@@ -19,7 +19,7 @@
 # Ignore Spring files.
 /spring/*.pid
 
-# Ignore PG_upgrade files.
+# Ignore PG Upgrade logs.
 pg_upgrade_internal.log
 pg_upgrade_server.log
 pg_upgrade_utility.log
